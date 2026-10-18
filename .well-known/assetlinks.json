@@ -1,0 +1,11 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.sgtprosports.courtside",
+    "sha256_cert_fingerprints": [
+      "D7:91:BD:03:E7:57:C2:6C:06:AE:5A:BF:41:D7:0E:58:43:15:80:3C:EF:88:20:C8:51:02:11:60:88:82:05:1E",
+      "8E:34:35:A9:58:66:89:F7:B2:5E:05:D7:DF:3D:F2:F1:3D:DC:4A:92:B4:3F:DE:83:45:0F:EF:C8:58:65:29:32"
+    ]
+  }
+}]
